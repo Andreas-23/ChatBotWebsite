@@ -1,7 +1,7 @@
 # Create Your Own Chatbot Website with Open Source LLMs
 
 <p align="center">
-  <img src="https://www.example.com/chatbot_image.jpg">
+  <img src="https://s30383.pcdn.co/wp-content/uploads/2023/02/MOS-using-chatbot-OC23DD.jpg">
 </p>
 
 ## Welcome to the Chatbot Website Project!
