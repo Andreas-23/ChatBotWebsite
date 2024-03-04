@@ -32,7 +32,7 @@ def handle_prompt():
     # Generate the response from the model
     outputs = model.generate(**inputs)
 
-    # Decode the response
+    # Decode the  response
     response = tokenizer.decode(outputs[0], skip_special_tokens=True).strip()
 
     # Add interaction to conversation history
